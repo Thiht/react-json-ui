@@ -1,8 +1,8 @@
-# react-json-ui
+# react-json-ui [![NPM](https://img.shields.io/npm/v/react-json-ui.svg)](https://www.npmjs.com/package/react-json-ui) [![Netlify Status](https://api.netlify.com/api/v1/badges/b7e64e80-a328-477f-b784-fb6785a61d69/deploy-status)](https://app.netlify.com/sites/react-json-ui/deploys)
 
 > Generate user interface from arbitrary JSON
 
-[![NPM](https://img.shields.io/npm/v/react-json-ui.svg)](https://www.npmjs.com/package/react-json-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+## [Demo](https://react-json-ui.netlify.app/)
 
 ## Install
 
