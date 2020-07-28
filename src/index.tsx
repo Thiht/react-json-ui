@@ -105,7 +105,7 @@ const renderEntry = (
 
   return (
     <tr className={styles.entry}>
-      <td className={styles.entryKey} title={key}>
+      <td className={styles.entryKey} title={position.join('.')}>
         {options?.humanizeKeys ? (_.startCase(key) as string) : key}
       </td>
       <td className={styles.entryValue}>{value}</td>
